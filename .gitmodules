@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NMdata"]
+	path = NMdata
+	url = https://github.com/philipdelff/nmdata
+	shallow = true
+	registered = true
