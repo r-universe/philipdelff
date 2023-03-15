@@ -1,6 +1,14 @@
 [
   {
+    "package": "NMcalc",
+    "oncran": true
+  },
+  {
     "package": "NMdata",
+    "oncran": true
+  },
+  {
+    "package": "tracee",
     "oncran": true
   }
 ]
