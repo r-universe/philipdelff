@@ -5,9 +5,6 @@
 [submodule "NMcalc"]
 	path = NMcalc
 	url = https://github.com/philipdelff/nmcalc
-[submodule "NMdata"]
-	path = NMdata
-	url = https://github.com/philipdelff/nmdata
 [submodule "tracee"]
 	path = tracee
 	url = https://github.com/philipdelff/tracee
